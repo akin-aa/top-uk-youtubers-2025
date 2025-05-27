@@ -9,4 +9,4 @@ SELECT
 FROM 
 	INFORMATION_SCHEMA.COLUMNS --want information about the columns
 WHERE 
-	TABLE_NAME='view_uk_youtubers_2025'
+	TABLE_NAME='view_uk_youtubers_2025';
