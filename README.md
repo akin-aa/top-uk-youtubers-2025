@@ -865,7 +865,7 @@ I believe the best way to learn is by doing, not just watching tutorials or memo
 Each project is an opportunity to sharpen my skills, understand industry tools and standards, and build a portfolio that demonstrates not just what I’ve learned, but how I think and solve problems.
 
 ### Credit: 
-Stephen | Data on YouTube. [see here to find the YouTube guided project- Excel to Power BI Portfolio Project | Full End-to-End Data Project.](https://www.youtube.com/watch?v=mm_sN-Elplg&t=39s)
+Stephen | Data on YouTube. [Click here to find the YouTube guided project- Excel to Power BI Portfolio Project | Full End-to-End Data Project.](https://www.youtube.com/watch?v=mm_sN-Elplg&t=39s)
 
 
 
