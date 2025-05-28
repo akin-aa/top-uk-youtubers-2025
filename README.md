@@ -34,6 +34,7 @@
   - [Potential ROI](#potential-roi)
   - [Potential Courses of Actions](#potential-courses-of-actions)
 - [Conclusion](#conclusion)
+- [About Me](#about-me)
 
 
 
@@ -855,8 +856,7 @@ We'll have conversations with the marketing client to forecast what they also ex
 4. Review how the campaigns have gone, gather insights and optimise based on feedback from converted customers and each channel's audiences.
 
 
-
-#ABOUT ME
+# ABOUT ME
 
 
 
