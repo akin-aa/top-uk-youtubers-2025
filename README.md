@@ -856,7 +856,13 @@ We'll have conversations with the marketing client to forecast what they also ex
 4. Review how the campaigns have gone, gather insights and optimise based on feedback from converted customers and each channel's audiences.
 
 
-# ABOUT ME
+# About Me
+
+Hi, I’m a recent Industrial Engineering graduate from the University of Pretoria with a passion for solving real-world problems using data. My interest in data analytics grew during my studies, and I’ve since committed to a hands-on, project-based learning approach to build practical, job-ready skills.
+
+I believe the best way to learn is by doing, not just watching tutorials or memorising concepts, but actively applying them to real challenges. That’s why I’ve created this GitHub to showcase a growing collection of projects that reflect my learning journey, from data cleaning and SQL analytics to building insightful dashboards and exploring business questions.
+
+Each project is an opportunity to sharpen my skills, understand industry tools and standards, and build a portfolio that demonstrates not just what I’ve learned, but how I think and solve problems.
 
 
 
